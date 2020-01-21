@@ -6,4 +6,4 @@ Dependency
 ---------------------
 It needs darkflow, CUDA, cudNN, ... etc.<br/>
 
-If you need more, clike [HERE](https://ohjinjin.github.io/blogging/darkflow/).<br/>
+If you need more, click [HERE](https://ohjinjin.github.io/blogging/darkflow/).<br/>
